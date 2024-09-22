@@ -1,6 +1,6 @@
 # 📊 Relatórios Dinâmicos com Parâmetros no Power BI
 
-Este repositório contém exemplos e documentação para a criação de relatórios dinâmicos utilizando parâmetros no Power BI. Os parâmetros permitem que os usuários interajam com os dados de forma mais flexível e personalizada, proporcionando uma experiência de análise mais rica. ✨
+Este módulo contém exemplos e documentação para a criação de relatórios dinâmicos utilizando parâmetros no Power BI. Os parâmetros permitem que os usuários interajam com os dados de forma mais flexível e personalizada, proporcionando uma experiência de análise mais rica. ✨
 
 ## 🎯 Objetivo
 
